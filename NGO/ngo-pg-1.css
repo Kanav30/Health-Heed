@@ -1,0 +1,133 @@
+body{
+    background-color: #ffffff;
+}
+.Header{
+    color: #2ddabd;
+    border: 5px;
+    background-color: #000000 ;
+    font-family: 'Open Sans', sans-serif;
+}
+.Header h1{
+    padding-left: 675px;
+}
+
+
+h2{
+    color: #32e0c4;
+    width: 260px;
+    font-size: 40px;
+    position: relative;
+    top: 15px;
+    left: 550px;
+}
+.description{
+    border: solid;
+    width: 800px;
+    height: 200px;
+    color: #fc9425;
+    background-color: #1b262c;
+}
+.description h3{
+    position: relative;
+    left: 10px;
+    font-size: 25px; 
+       
+}
+.order{
+    border: solid;
+    width: 690px;
+    height: 200px;
+    color: #fc9425;
+    background-color: #1b262c;
+    position: relative;
+    left: 810px;
+    bottom: 205px;
+    
+}
+.order h3{
+    position: relative;
+    left: 10px;
+    font-size: 25px;    
+}
+.order button{
+    font-size: 30px;
+    
+    position: relative;
+    left: 530px;
+    top: 10px;
+}
+
+.description1{
+    border: solid;
+    width: 800px;
+    height: 200px;
+    color: #fc9425;
+    background-color: #1b262c;
+    position: relative;
+    bottom: 160px;
+}
+.description1 h3{
+    position: relative;
+    left: 10px;
+    font-size: 25px;    
+}
+.order1{
+    border: solid;
+    width: 690px;
+    height: 200px;
+    color: #fc9425;
+    background-color: #1b262c;
+    position: relative;
+    left: 810px;
+    bottom: 365px;
+}
+.order1 h3{
+    position: relative;
+    left: 10px;
+    font-size: 25px;    
+}
+.order1 button{
+    font-size: 30px;
+    position: relative;
+    left: 530px;
+    top: -40px;
+}
+
+.description2{
+    border: solid;
+    width: 800px;
+    height: 200px;
+    color: #fc9425;
+    background-color: #1b262c;
+    position: relative;
+    bottom: 320px;
+}
+.description2 h3{
+    position: relative;
+    left: 10px;
+    font-size: 25px;    
+}
+.order2{
+    border: solid;
+    width: 690px;
+    height: 200px;
+    color: #fc9425;
+    background-color: #1b262c;
+    position: relative;
+    left: 810px;
+    bottom: 525px;
+}
+.order2 h3{
+    position: relative;
+    left: 10px;
+    font-size: 25px;    
+}
+.order2 button{
+    font-size: 30px;
+    position: relative;
+    left: 530px;
+    top: -20px;
+}
+button{
+    background-color:#4C9CD1;
+}

@@ -1,0 +1,100 @@
+body{
+    background-color: #ffffff;
+}
+
+.Header{
+    color: #2ddabd;
+    border: 5px;
+    background-color: #000000 ;
+    font-family: 'Open Sans', sans-serif;
+}
+.Header h1{
+    padding-left: 575px;
+}
+
+.Address h3{
+    color: #70AD47;
+    font-size: 30px;
+    font-family: 'Roboto Mono', monospace;
+    width: 200px;
+    position: relative;
+    left: 600px;
+    top: 20px;
+}
+.Address input{
+    color: black;
+    background-color: orange;
+    font-size: 30px;
+    width: 400px;
+    position: relative;
+    left: 500px;
+    top: 10px;
+}
+
+.Age h3{
+    color: #70AD47;
+    font-size: 30px;
+    font-family: 'Roboto Mono', monospace;
+    width: 150px;
+    position: relative;
+    left: 600px;
+    top: 10px; 
+}
+.Age input{
+    color: black;
+    background-color: orange;
+    font-size: 30px;
+    width: 400px;
+    position: relative;
+    left: 500px;
+    top: 0px;
+}
+
+.Gender h3{
+    color: #70AD47;
+    font-size: 30px;
+    font-family: 'Roboto Mono', monospace;
+    width: 150px;
+    position: relative;
+    left: 600px;
+    top: 10px; 
+}
+.Gender input{
+    color: black;
+    background-color: orange;
+    font-size: 30px;
+    width: 400px;
+    position: relative;
+    left: 500px;
+    top: 0px;
+}
+
+.phone_number h3{
+    color: #70AD47;
+    font-size: 30px;
+    font-family: 'Roboto Mono', monospace;
+    width: 300px;
+    position: relative;
+    left: 600px;
+    top: 10px; 
+}
+.phone_number input{
+    color: black;
+    background-color: orange;
+    font-size: 30px;
+    width: 400px;
+    position: relative;
+    left: 500px;
+    top: 0px;
+}
+
+button{
+    border-radius: 20px;
+    background-color: #4c9cd1;
+    color: white;
+    width: 200px;
+    font-size: 40px;
+    position: relative;
+    top: 40px;
+    left: 600px;
+}

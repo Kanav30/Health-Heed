@@ -1,0 +1,83 @@
+body{
+    background-color: #ffffff;
+}
+.Header{
+    color: #2ddabd;
+    border: 5px;
+    background-color: #000000 ;
+    font-family: 'Open Sans', sans-serif;
+}
+.Header h1{
+    padding-left: 675px;
+}
+.header{
+    color: #70AD47;
+    padding-left: 300px;
+    padding-top: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.email input{
+    border: dotted;
+    background-color: orange;
+    width: 300px;
+    height: 30px;
+    position: relative;
+    top: 40px;
+    left: 300px;
+    font-size: 20px;
+}
+
+.password input{
+    border: dotted;
+    background-color: orange;
+    width: 300px;
+    height: 30px;
+    position: relative;
+    top: 50px;
+    left: 300px;
+    font-size: 20px;    
+}
+
+.login button{
+    border: solid;
+    border-radius: 15px;
+    width: 200px;
+    height: 50px;
+    position: relative;
+    top: 70px;
+    left: 350px;
+
+    font-size: 30px;
+    background-color: #4c9cd1;
+}
+
+.new_account p{
+    width: 180px;
+    height: 22px;
+    position: relative;
+    top: 100px;
+    left: 260px;
+    font-size: 30px;
+    color: #70AD47 ;
+}
+
+.new_account1 p{
+    width: 180px;
+    height: 22px;
+    position: relative;
+    top: 46px;
+    left: 445px;
+    font-size: 30px;
+    color: #4c9cd1;
+}
+
+.new_account2 p{
+    width: 180px;
+    height: 22px;
+    position: relative;
+    top: -5px;
+    left: 627px;
+    font-size: 30px;
+    color: #70AD47; 
+}
+

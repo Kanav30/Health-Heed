@@ -1,0 +1,108 @@
+body{
+    background-color: #ffffff;
+}
+.Header{
+    color: #2ddabd;
+    border: 5px;
+    background-color: #000000 ;
+    font-family: 'Open Sans', sans-serif;
+}
+.Header h1{
+    padding-left: 575px;
+}
+
+h2{
+    color: orange;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 34px;    
+    width: 900px;
+    position: relative;
+    left: 470px;
+}
+
+.Username h3{
+    color: #70AD47;
+    font-size: 30px;
+    font-family: 'Roboto Mono', monospace;
+    width: 200px;
+    position: relative;
+    left: 600px;
+    top: 30px;
+}
+.Username input{
+    color: black;
+    background-color: orange;
+    font-size: 30px;
+    width: 400px;
+    position: relative;
+    left: 500px;
+    top: 20px;
+}
+
+.Email h3{
+    color: #70AD47;
+    font-size: 30px;
+    font-family: 'Roboto Mono', monospace;
+    width: 150px;
+    position: relative;
+    left: 600px;
+    top: 20px; 
+}
+.Email input{
+    color: black;
+    background-color: orange;
+    font-size: 30px;
+    width: 400px;
+    position: relative;
+    left: 500px;
+    top: 10px;
+}
+
+.password h3{
+    color: #70AD47;
+    font-size: 30px;
+    font-family: 'Roboto Mono', monospace;
+    width: 150px;
+    position: relative;
+    left: 600px;
+    top: 20px; 
+}
+.password input{
+    color: black;
+    background-color: orange;
+    font-size: 30px;
+    width: 400px;
+    position: relative;
+    left: 500px;
+    top: 10px;
+}
+
+.confirm_password h3{
+    color: #70AD47;
+    font-size: 30px;
+    font-family: 'Roboto Mono', monospace;
+    width: 300px;
+    position: relative;
+    left: 580px;
+    top: 20px; 
+}
+.confirm_password input{
+    color: black;
+    background-color: orange;
+    font-size: 30px;
+    width: 400px;
+    position: relative;
+    left: 500px;
+    top: 10px;
+}
+
+button{
+    color: #4c9cd1;
+    background-color: #ffffff;
+    border-color: #ffffff;
+    width: 200px;
+    font-size: 100px;
+    position: relative;
+    top: 70px;
+    left: 1000px;
+}

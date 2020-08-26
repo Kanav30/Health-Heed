@@ -1,0 +1,93 @@
+body{
+    background-color: #ffffff
+}
+
+.Header{
+    color: #2ddabd;
+    border: 5px;
+    background-color: #000000 ;
+    font-family: 'Open Sans', sans-serif;
+}
+.Header h1{
+    padding-left: 675px;
+}
+
+.patient{
+    padding-left: 140px;
+    padding-top: 30px;
+}
+.patient button{
+    border-radius: 20px;
+    background-color: #4c9cd1;
+    padding-left: 50px;
+   padding-right: 50px;
+    width: 250px;
+    height: 75px;
+    position: relative;
+    bottom: 120px;
+    left: 250px;
+    font-size: 30px;
+}
+.patient p{
+    width:800px;
+    font-size: 30px;
+    color:#70AD47;
+    position: relative;
+    bottom: 300px;
+    left: 400px;
+    font-family: 'Do Hyeon', sans-serif;
+}
+
+.ngo{
+     padding-left: 120px;
+     padding-top: 5px;
+ }
+ .ngo button{
+    border-radius: 20px;
+     background-color: #4c9cd1;
+     padding-left: 50px;
+    padding-right: 50px;
+     width: 250px;
+     height: 75px;
+     position: relative;
+     bottom: 120px;
+     left: 150px;
+     font-size: 30px;
+ }
+ .ngo p{
+     width:800px;
+     font-size: 30px;
+     color:#70AD47;
+     position: relative;
+     bottom: 300px;
+     left: 470px;
+     font-family: 'Do Hyeon', sans-serif;
+ }
+
+ .doctor{
+ 
+     padding-left: 120px;
+     padding-top: 5px;
+ }
+ .doctor button{
+    border-radius: 20px;
+     background-color: #4c9cd1;
+     padding-left: 50px;
+    padding-right: 50px;
+     width: 250px;
+     height: 75px;
+     position: relative;
+     bottom: 120px;
+     left: 250px;
+     font-size: 30px;
+ }
+ .doctor p{
+     width:800px;
+     font-size: 30px;
+     color:#70AD47;
+     position: relative;
+     bottom: 300px;
+     left: 490px;
+     font-family: 'Do Hyeon', sans-serif;
+ }
+

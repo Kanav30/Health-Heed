@@ -1,0 +1,52 @@
+body{
+    background-color: #ffffff;
+}
+
+.Header{
+    color: #2ddabd;
+    border: 5px;
+    background-color: #000000 ;
+    font-family: 'Open Sans', sans-serif;
+}
+.Header h1{
+    padding-left: 675px;
+}
+
+h2{
+    color: #1db0ff;
+    padding-left: 350px;
+}
+.doctor img{
+    background-color: black;
+    color:rgb(64, 201, 255);
+    width: 230px;
+    font-size: 30px;
+    position: relative;
+    top: 50px;
+    left: 250px
+}
+.ngo img{
+    background-color: black;
+    color:rgb(238, 255, 0);
+    width: 350px;
+    height:360px;
+    font-size: 30px;
+    position: relative;
+    top: -250px;
+    left: 500px
+}
+.my_health img{
+    position: relative;
+    bottom: 300px;
+    left:250px;
+}
+p{
+    color: rgb(245, 255, 109);
+    width:500px;
+    height: 90px;
+    position: relative;
+    top: 70px;
+    left: 400px;
+    font-size: 32px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
